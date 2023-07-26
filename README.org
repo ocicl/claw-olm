@@ -1,0 +1,10 @@
+* claw-olm
+
+Thin wrapper over Matrix OLM
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/claw-olm.git   |
+| commit  | 68d4018  |
+| systems | claw-olm |
+|---------+-------------------------------------------|
+
